@@ -1,6 +1,6 @@
 # Conceptos básicos de Microsoft Azure Data
 
-Este repositorio contiene los ejercicios de laboratorios prácticos para el curso [*Conceptos básicos de Microsoft Azure Data* (DP-900)](https://docs.microsoft.com/fr-fr/learn/certifications/courses/dp-900t00) y los [módulos de aprendizaje autodirigido de Microsoft Learn](https://docs.microsoft.com/fr-fr/users/23110622/collections/0kjyh8rn5gdrjj/) Los laboratorios están pensados para complementar los materiales de aprendizaje y permiten practicar el uso de las tecnologías descritas en estos materiales. 
+Este repositorio contiene los ejercicios de laboratorios prácticos para el curso [*Conceptos básicos de Microsoft Azure Data* (DP-900)](https://docs.microsoft.com/es-es/learn/certifications/courses/dp-900t00) y los [módulos de aprendizaje autodirigido de Microsoft Learn](https://docs.microsoft.com/es-es/users/23110622/collections/0kjyh8rn5gdrjj/) Los laboratorios están pensados para complementar los materiales de aprendizaje y permiten practicar el uso de las tecnologías descritas en estos materiales. 
 
 - **[Descargue el manual del alumno y el contenido AllFiles más recientes](../../releases/latest)**
 - **¿Es un MCT?** - Vea nuestra [Guía de usuario de GitHub para MCT](https://microsoftlearning.github.io/MCT-User-Guide-ES/)
