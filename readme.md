@@ -1,6 +1,6 @@
 **Important Notice!**
 
-This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.es-es) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.es-es) on January 14th 2022. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
 After a short interval, this repo will be archived.
 
 **Contributions**
